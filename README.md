@@ -1,2 +1,3 @@
 Git first project
-function update
+function
+second project
