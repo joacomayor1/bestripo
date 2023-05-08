@@ -1,1 +1,1 @@
-# bestripo
+Git first project
